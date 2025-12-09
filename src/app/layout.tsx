@@ -126,7 +126,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="ru">
-      <body className={poppins.variable}>{children}</body>
+      <body className={poppins.variable} style={{ fontFamily: 'var(--font-poppins)' }}>
+        {children}
+      </body>
     </html>
   )
 }
