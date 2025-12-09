@@ -1,4 +1,4 @@
-@import "./_variables";
-@import "./_normalize";
-@import "./globals";
-@import "common";
+@use './_variables' as *;
+@use './_normalize' as *;
+@use './globals' as *;
+@use './common' as *;
