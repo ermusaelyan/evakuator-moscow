@@ -11,6 +11,7 @@
     "check": "biome check --write ./src"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
     "next": "16.0.4   ",
     "react": "19.2.0",
     "react-dom": "19.2.0"
@@ -22,5 +23,6 @@
     "@types/react-dom": "^19",
     "sass": "^1.94.2",
     "typescript": "^5"
-  }
+  },
+  "packageManager": "pnpm@10.25.0+sha512.5e82639027af37cf832061bcc6d639c219634488e0f2baebe785028a793de7b525ffcd3f7ff574f5e9860654e098fe852ba8ac5dd5cefe1767d23a020a92f501"
 }

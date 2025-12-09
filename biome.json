@@ -32,6 +32,6 @@
     }
   },
   "files": {
-    "includes": ["src/**/*.{js,jsx,ts,tsx,json}"]
+    "includes": ["app/**/*.{js,jsx,ts,tsx,json}", "src/**/*.{js,jsx,ts,tsx,json}"]
   }
 }
